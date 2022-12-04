@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro",
+    "price": 1299,
+    "imgUrl": "/assets/Pro.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Iphone 14 Pro",
+    "price": 699,
+    "imgUrl": "/assets/iphone.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Airpods 3",
+    "price": 399,
+    "imgUrl": "/assets/airpods.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "iMac-Pro",
+    "price": 999,
+    "imgUrl": "/assets/imac.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "iPad Pro",
+    "price": 799,
+    "imgUrl": "/assets/ippad.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Apple watch 7",
+    "price": 699,
+    "imgUrl": "/assets/watch.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Apple Keyboard",
+    "price": 99,
+    "imgUrl": "/assets/keyboard.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Apple Magic Mouse",
+    "price": 149,
+    "imgUrl": "/assets/mouse.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Iphone Charger",
+    "price": 29,
+    "imgUrl": "/assets/charger.jpeg"
+  }
+]
