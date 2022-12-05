@@ -4,6 +4,6 @@ const CURRENCY_FORMATTER = new Intl.NumberFormat(undefined, {
   style: "currency",
 });
 
-export default function formatCurrency(number) {
+export default function formatCurrency(number: number | bigint) {
   return CURRENCY_FORMATTER.format(number);
 }
