@@ -1,5 +1,6 @@
 import React from "react";
+import "../App.css";
 
 export default function Home() {
-  return <div>Home</div>;
+  return <p className="home">Welcome To Apple Store</p>;
 }
